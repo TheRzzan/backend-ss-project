@@ -1,2 +1,2 @@
-include ':app', ':test-lib'
+include ':app', ':test-lib', ':test-lib-impl'
 rootProject.name='backend-ss-project'
